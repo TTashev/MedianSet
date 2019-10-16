@@ -1,1 +1,2 @@
-# MedianSet data structure, supporting insertion of element and extraction of median.
+# MedianSet data structure. 
+supporting insertion of element and extraction of median.
